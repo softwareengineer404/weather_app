@@ -1,7 +1,7 @@
 *{
     margin: 0; 
     padding: 0;
-    font-family: `Poppins`, san-serif;
+    font-family: `Poppins`, sans-serif;
     box-sizing: border-box;
 
 }
@@ -61,4 +61,11 @@ body{
     font-size: 45px;
     font-weight: 400;
     margin-top: -10px;
+}
+.details{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    margin-top: 50px;
 }
